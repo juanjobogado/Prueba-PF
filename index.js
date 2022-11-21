@@ -5,6 +5,11 @@ function laCajaDePandora(numero) {
     else return numero.toString(16)
 };
 
+function Joaquin(){
+    return{name: "Joaquin Maza",
+    age: 22,
+    nationality: "Argentinian"}
+
 function jose() {
     let object = { nombre: "Jose", edad: 25, nacionalidad: "Venezolano" }
     return object
