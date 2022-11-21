@@ -16,3 +16,12 @@ function Martina() {
     }
 };
 
+function juanjo(){
+    let data = {
+        name: "juan",
+        age: 23,
+        nationality: argentinian
+
+    }
+    return data;
+};
