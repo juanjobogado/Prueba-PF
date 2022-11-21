@@ -7,3 +7,11 @@ function laCajaDePandora(n){
         return (n).toString(16)
     }
 }
+
+function Felipe() {
+    return{
+        name: "Felipe Hernandez Quiroga",
+        age: 18,
+        nationality: "Argentinian"
+    }
+}
