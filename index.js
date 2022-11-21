@@ -9,11 +9,12 @@ function Joaquin(){
     return{name: "Joaquin Maza",
     age: 22,
     nationality: "Argentinian"}
+};
 
 function jose() {
     let object = { nombre: "Jose", edad: 25, nacionalidad: "Venezolano" }
     return object
-}
+};
 
 function Martina() {
     return {
@@ -39,7 +40,7 @@ const nicolas = () => {
         edad: 22,
         pais: "Colombia"
     }
-}
+};
 
 
 function antonio() {
@@ -48,4 +49,12 @@ function antonio() {
         age: 32,
         natl: 'MX'
     }
-}
+};
+
+function Felipe() {
+    return{
+        name: "Felipe Hernandez Quiroga",
+        age: 18,
+        nationality: "Argentinian"
+        }
+};
