@@ -8,3 +8,10 @@ function laCajaDePandora(numero) {
 };
 
 
+const nicolas = () => {
+    return {
+        nombre: "Nicolas Rojas",
+        edad: 22,
+        pais: "Colombia"
+    }
+}
